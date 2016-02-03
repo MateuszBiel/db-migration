@@ -1,0 +1,15 @@
+{
+  "name": "dbmigration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "application": "nodemon --exec \"python -v\" ./mainView.py "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
